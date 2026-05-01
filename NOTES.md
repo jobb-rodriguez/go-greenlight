@@ -39,5 +39,6 @@ Greenlight Project
   - A Basic HTTP Server
     - Setup server
     - Setup healthcheck handler
+    - ```httprouter``` handles request method compared to ```http.ServeMux```
 
 # Notes
